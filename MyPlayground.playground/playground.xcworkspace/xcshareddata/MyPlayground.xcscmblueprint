@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "554509157B76C071A470F60E8992503AF32339BF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "554509157B76C071A470F60E8992503AF32339BF" : 9223372036854775807,
+    "5E9F69AFCD83D19A562779CA9B4D65B86E71B24F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8BAD01B-0E50-4F93-8CFF-5F33583FDC79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "554509157B76C071A470F60E8992503AF32339BF" : "SwiftPlayground2.1\/",
+    "5E9F69AFCD83D19A562779CA9B4D65B86E71B24F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyPlayground",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyPlayground.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/flyhightech\/SwiftPlayground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "554509157B76C071A470F60E8992503AF32339BF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/flyhightech\/swift-projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E9F69AFCD83D19A562779CA9B4D65B86E71B24F"
+    }
+  ]
+}
