@@ -11,3 +11,12 @@ var name = "Bernard"
 
 var lastName = "Huff"
 
+// Below is where you find out about the difference between declarations
+
+var implicitAge = 87
+
+var explicitAge: Double = 12
+
+
+
+
