@@ -7,7 +7,7 @@ import UIKit
 
 var str = "Hello, playground"
 
-var name = "Bernard"
+var firstName = "Bernard"
 
 var lastName = "Huff"
 
