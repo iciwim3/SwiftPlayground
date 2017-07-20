@@ -14,3 +14,10 @@ var wholeSituation = "I have to read the \(fullName)"
 var barTab = 17.00
 
 let drink = "patron"
+
+func baseball() {
+    print("take me out to the ball game")
+}
+
+baseball()
+baseball()
