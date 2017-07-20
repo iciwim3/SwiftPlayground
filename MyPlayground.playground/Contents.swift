@@ -11,6 +11,6 @@ let myFloat: Float? = 90
 
 var wholeSituation = "I have to read the \(fullName)"
 
-
+var barTab = 17.00
 
 let drink = "patron"
