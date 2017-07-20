@@ -5,18 +5,11 @@
 
 import UIKit
 
-var str = "Hello, playground"
+let fullName: String = "James Dean"
 
-var firstName = "Bernard"
+let myFloat: Float? = 90
 
-var lastName = "Huff"
-
-// Below is where you find out about the difference between declarations
-
-var implicitAge = 87
-
-var explicitAge: Double = 12
-
+var wholeSituation = "I have to read the \(fullName)"
 
 
 
