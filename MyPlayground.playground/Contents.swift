@@ -5,10 +5,12 @@
 
 import UIKit
 
-var str = "Hello, playground"
+let fullName: String = "James Dean"
 
-var name = "Bernard"
+let myFloat: Float? = 90
 
-var lastName = "Huff"
+var wholeSituation = "I have to read the \(fullName)"
+
+
 
 let drink = "patron"
