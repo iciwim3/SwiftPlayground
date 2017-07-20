@@ -11,3 +11,4 @@ var name = "Bernard"
 
 var lastName = "Huff"
 
+let drink = "patron"
