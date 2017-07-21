@@ -1,7 +1,8 @@
 //: Playground - noun: a place where people can play
 
-
 //What up Bro, this is where we can practice what we learn.
+
+//Great Now were getting the hang of the push/pull method.
 
 import UIKit
 
