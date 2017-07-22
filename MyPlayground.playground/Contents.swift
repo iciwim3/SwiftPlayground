@@ -1,47 +1,9 @@
 //: Playground - noun: a place where people can play
 
-//What up Bro, this is where we can practice what we learn.
+// Okay so I basically deleted everything. 
 
-//Great Now were getting the hang of the push/pull method.
+var mission:String = "Okay now for the hard part"
 
-import UIKit
-
-let fullName: String = "James Dean"
-
-let myFloat: Float? = 90
-
-var wholeSituation = "I have to read the \(fullName)"
-
-var barTab: Double = 17.00
-
-let drink = "patron"
-
-func baseball() {
-    print("take me out to the ball game")
-}
-
-baseball()
-baseball()
-
-//So not that you got the basketball function to work correctly. What next?
-
-func setPlayer (_player:String) {
-
-    print("It was the fucking security guard man! lol")
-
-}
-
-setPlayer(_player: "Hello")
-
-<<<<<<< HEAD
-// Currently trying to figure out the best method to collab
-
-
-=======
-//xcode is going to be the gateway to these M's
->>>>>>> origin/master
-
-//These M's nigga...these M's!! 
 
 
 
