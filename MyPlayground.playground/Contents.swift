@@ -33,7 +33,11 @@ func setPlayer (_player:String) {
 
 setPlayer(_player: "Hello")
 
+<<<<<<< HEAD
 // Currently trying to figure out the best method to collab
 
 
+=======
+//xcode is going to be the gateway to these M's
+>>>>>>> origin/master
 
