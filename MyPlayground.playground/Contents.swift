@@ -22,3 +22,14 @@ func baseball() {
 
 baseball()
 baseball()
+
+//So not that you got the basketball function to work correctly. What next?
+
+func setPlayer (_player:String) {
+
+    print("It was the fucking security guard man! lol")
+
+}
+
+setPlayer(_player: "Hello")
+
