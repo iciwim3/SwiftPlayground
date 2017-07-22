@@ -4,6 +4,6 @@
 
 var mission:String = "Okay now for the hard part"
 
-
+// Now that that's out of the way.
 
 
