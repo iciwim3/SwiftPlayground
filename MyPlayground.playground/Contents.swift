@@ -34,6 +34,8 @@ switch vegetable {
 
 // Here im playing with some different engineering concepts
 
+// Here is where we train guys
+
 let interestingNumbers = [
 
     "Prime": [2, 3, 5, 7, 11, 13],
