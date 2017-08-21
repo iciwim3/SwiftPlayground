@@ -32,6 +32,8 @@ switch vegetable {
     
 }
 
+//LOL what are these??? tea sandwich? ants on a log?? just super random
+
 // Here im playing with some different engineering concepts
 
 // Here is where we train guys
